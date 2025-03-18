@@ -89,6 +89,8 @@ Certaines fonctionnalités n'ont pas encore été implémentées ou nécessitent
    - Améliorer l'interface utilisateur pour rendre le site plus intuitif et attractif.
 
 ## Installation
+1. Télécharger ou cloner ce projet.
+2. Ouvrir `index.php` dans un navigateur.
 
-1. **Cloner le dépôt** :
-   git clone 
+## Auteurs
+- Développé par Massé BATEKE
